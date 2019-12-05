@@ -1,3 +1,11 @@
+//Bjorklund app:
+// http://www.groovemechanics.com/euclid/
+
+// Concierto para Bongo
+// https://www.youtube.com/watch?v=pBeB7rBdx2g
+
+
+
 (
 s.boot;
 
